@@ -8,10 +8,7 @@
 ---
 
 ## 🚀 Overview
-**QuizzyBee** is a fun and interactive quiz application built using **React** and **Vite**.  
-            It allows users to test their knowledge through multiple-choice questions with instant feedback.  
-
-This project demonstrates **React component-based design, state management with hooks, and modern UI styling**.
+**QuizzyBee** is a fun and interactive quiz application built using **React** and **Vite**. It allows users to test their knowledge through multiple-choice questions with instant feedback. This project demonstrates React **component-based design, state management with hooks, and modern UI styling.**
 
 ---
 
