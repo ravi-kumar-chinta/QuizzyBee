@@ -83,15 +83,10 @@ This project follows a component-based architecture typical of React application
 ## 🎮 How to Play
 
 - Read the question carefully.
-
 - Click on the correct option.
-
 - Your score updates automatically.
-
 - Click Next to go to the next question.
-
-- At the end, view your total score.
-
+- At the end, view your total score
 - Use Reset to restart the quiz.
 
 ---
@@ -107,17 +102,19 @@ This project follows a component-based architecture typical of React application
 ## 🖼️ QuizzyBee Preview
 
 
-- - Here’s how the app looks:
+- Here’s how the app looks:
+
 ![QuizzyBee Screenshot](./screenshot.png)
+
+---
 
 
 ## ✅ Conclusion
 
 - Built a fully functional quiz app using React + Vite.
-
 - Implemented state management, conditional rendering, and scoring system.
-
 - Designed with a beautiful animated background to enhance UX.
+---
 
 ## 🎉 Enjoy the Quiz!
 
