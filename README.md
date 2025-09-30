@@ -86,7 +86,7 @@ This project follows a component-based architecture typical of React application
 - Click on the correct option.
 - Your score updates automatically.
 - Click Next to go to the next question.
-- At the end, view your total score
+- At the end, view your total score.
 - Use Reset to restart the quiz.
 
 ---
