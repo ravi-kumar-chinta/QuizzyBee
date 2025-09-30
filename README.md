@@ -106,9 +106,10 @@ This project follows a component-based architecture typical of React application
 
 ## 🖼️ QuizzyBee Preview
 
-- - Here’s how the app looks:
 
-![QuizzyBee Screenshot]("C:\Users\hp\OneDrive\Desktop\Projects\quiz-app\Preview.png")
+- - Here’s how the app looks:
+![QuizzyBee Screenshot](./screenshot.png)
+
 
 ## ✅ Conclusion
 
