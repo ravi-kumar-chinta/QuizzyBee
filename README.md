@@ -50,57 +50,15 @@ npm install
 ```bash
 npm run dev
 ```
+- The application should now be running locally, usually accessible at `http://localhost:5173/` (the exact port may vary).
 ---
 
 ## 📂 Folder Structure
-```bash
-
-That file structure looks like a standard setup for a modern React application, likely using Vite for the build tool!
-Here is a template for a README.md file that you can adapt for your "QUIZ-APP," based on the structure shown in the image:
-
-Markdown
-
-# QUIZ-APP 🧠
-
-A simple, interactive quiz application built with **React** and bundled using **Vite**.
-
-## 🚀 Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-You'll need **Node.js** and **npm** (or yarn/pnpm) installed on your machine.
-
-### Installation
-
-1.  **Clone the repository** (or download the project files):
-    ```bash
-    git clone [YOUR_REPO_URL]
-    cd QUIZ-APP
-    ```
-
-2.  **Install dependencies**:
-    ```bash
-    npm install
-    # or
-    # yarn install
-    ```
-
-3.  **Start the development server**:
-    ```bash
-    npm run dev
-    # or
-    # yarn dev
-    ```
-    The application should now be running locally, usually accessible at `http://localhost:5173/` (the exact port may vary).
-
----
-
-## 📂 File Structure Overview
 
 This project follows a component-based architecture typical of React applications.
 
+
+```bash
 .
 ├── node_modules/         # Automatically generated folder for installed dependencies
 ├── public/               # Static assets that are copied directly to the build folder
@@ -141,19 +99,16 @@ This project follows a component-based architecture typical of React application
 
 ## 📈 Quiz Mechanics
 
- - Each question has 4 options, only one is correct.
- - 
- - Selected answer gets highlighted (green for correct, red for wrong).
-
+ - Each question has 4 options, only one is correct. 
+ - Selected answer gets highlighted (`Green` for `correct`, `Red` for `wrong`)
  - Score increases for each correct answer.
-
  - Final score is displayed at the end of the quiz.
 
-## 🖼️ Screenshot Preview
+## 🖼️ QuizzyBee Preview
 
 - - Here’s how the app looks:
 
-![QuizzyBee Screenshot](./screenshot.png)
+![QuizzyBee Screenshot]("C:\Users\hp\OneDrive\Desktop\Projects\quiz-app\Preview.png")
 
 ## ✅ Conclusion
 
